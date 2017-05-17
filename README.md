@@ -13,3 +13,5 @@
 - [javascript基础](https://github.com/39Er/blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajavascript)
 
 - [ES6](https://github.com/39Er/blog/issues?q=is%3Aissue+label%3AES6)
+
+- [经典代码截屏](https://github.com/39Er/blog/issues/5)
